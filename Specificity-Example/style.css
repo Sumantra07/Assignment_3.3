@@ -1,0 +1,10 @@
+/* changing the color as per our need using specificity*/
+body.content {
+    background: blue
+}
+header.main {
+    background: blue;
+}
+header h1.title {
+    color: white;
+}
